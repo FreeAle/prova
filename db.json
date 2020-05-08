@@ -1,125 +1,98 @@
-{
-response_code: 0,
-results: [
-{
-category: "History",
-type: "multiple",
-difficulty: "medium",
-question: "What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? ",
-correct_answer: "Polio",
-incorrect_answers: [
-"Cancer",
-"Meningitis",
-"HIV"
+[
+[
+"Horoscopes accurately predict future events 85% of the time.",
+false
+],
+[
+"The National Weather Service will pay $30 for the rights to any original photograph of lightning. ",
+false
+],
+[
+"Liberace was a notorious womanizer. ",
+false
+],
+[
+"Due to a calendar mix-up, there were two years in a row identified as "1973". ",
+false
+],
+[
+"Contrary to popular belief, the white is not the healthiest part of an egg. It's actually the shell. ",
+false
+],
+[
+"Intelligent people have more zinc and copper in their hair.",
+true
+],
+[
+"The Spanish word esposa means "wife." The plural, esposas, means "wives," but also "handcuffs."",
+true
+],
+[
+"Every member of the Australian band Men at Work is currently unemployed.",
+false
+],
+[
+"In England, the Speaker of the House is not allowed to speak.",
+true
+],
+[
+"About 20% of gift cards never are redeemed at the full value of the card.",
+true
+],
+[
+"The only electrical equipment the Amish are allowed to use is a Panini press.",
+false
+],
+[
+"The Q-Tip was developed after serious design flaws were found in both the O-Tip and the P-Tip.",
+false
+],
+[
+"Superman is featured on every episode of "Seinfeld", either by name or pictures on Jerry's refrigerator.",
+true
+],
+[
+"In Bangladesh, kids as young as 15 can be jailed for cheating on their finals.",
+true
+],
+[
+"A 150-pound person weighs 165 pounds in Canada. ",
+false
+],
+[
+"The highest point in Pennsylvania is lower than the lowest point in Colorado.",
+true
+],
+[
+"George W. Bush, who presents himself as a man of faith, rarely goes to church. Yet he received votes from nearly two out of three voters who attend church at least once a week.",
+true
+],
+[
+"No one in Canada has a birthday on March 16th.",
+false
+],
+[
+"In the early 1950s, Philip Morris spent millions of dollars trying to teach dogs to smoke.",
+false
+],
+[
+"In 21 states, Wal-Mart is the single largest employer.",
+true
+],
+[
+"Pond's cold cream has an ingredient which is comprised of material which is found in pond scum.",
+false
+],
+[
+"One out of five people in the world (1.1 billion people) live on less than $1 per day.",
+true
+],
+[
+"For the first time in history, the number of people on the planet aged 60 or over will soon surpass those under 5.",
+true
+],
+[
+"The original name of Bank of America was Bank of Italy. ",
+true
+],
 ]
-},
-{
-category: "General Knowledge",
-type: "multiple",
-difficulty: "medium",
-question: "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
-correct_answer: "Mike",
-incorrect_answers: [
-"Matthew",
-"Mark",
-"Max"
-]
-},
-{
-category: "Entertainment: Video Games",
-type: "multiple",
-difficulty: "medium",
-question: "In Forza Motorsport 6, which of these track-exclusive cars was NOT featured in the game, either originally with the game or added as DLC?",
-correct_answer: "Aston Martin Vulcan",
-incorrect_answers: [
-"Ferrari FXX-K",
-"McLaren P1 GTR",
-"Lotus E23"
-]
-},
-{
-category: "Entertainment: Video Games",
-type: "multiple",
-difficulty: "medium",
-question: "In the Kingdom Heart series who provides the english voice for Master Eraqus?",
-correct_answer: "Mark Hamill",
-incorrect_answers: [
-"Jason Dohring",
-"Jesse McCartney",
-"Haley Joel Osment"
-]
-},
-{
-category: "Entertainment: Video Games",
-type: "multiple",
-difficulty: "hard",
-question: "In World of Warcraft lore, who organized the creation of the Paladins?",
-correct_answer: "Alonsus Faol",
-incorrect_answers: [
-"Uther the Lightbringer",
-"Alexandros Mograine",
-"Sargeras, The Daemon Lord"
-]
-},
-{
-category: "Entertainment: Video Games",
-type: "multiple",
-difficulty: "medium",
-question: "Who is the main character in most of the games of the YS series?",
-correct_answer: "Adol Christin ",
-incorrect_answers: [
-"Character doesn&#039;t have a name",
-"Estelle Bright",
-"Roger Wilco"
-]
-},
-{
-category: "Entertainment: Television",
-type: "multiple",
-difficulty: "medium",
-question: "In the television show &quot;Lazy Town&quot;, who is the actor of Robbie Rotten?",
-correct_answer: "Stef&aacute;n Stef&aacute;nsson",
-incorrect_answers: [
-"Adam Sandler",
-"Magn&uacute;s Scheving",
-"Stephen Carl"
-]
-},
-{
-category: "Entertainment: Film",
-type: "multiple",
-difficulty: "easy",
-question: "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
-correct_answer: "Groovy.",
-incorrect_answers: [
-"Gnarly.",
-"Perfect.",
-"Nice."
-]
-},
-{
-category: "Entertainment: Video Games",
-type: "multiple",
-difficulty: "medium",
-question: "Which character does the player play as in the video game &quot;Bastion&quot;?",
-correct_answer: "The Kid",
-incorrect_answers: [
-"Rucks",
-"Zulf",
-"Zia"
-]
-},
-{
-category: "General Knowledge",
-type: "multiple",
-difficulty: "hard",
-question: "The word &quot;astasia&quot; means which of the following?",
-correct_answer: "The inability to stand up",
-incorrect_answers: [
-"The inability to make decisions",
-"The inability to concentrate on anything",
-"A feverish desire to rip one&#039;s clothes off"
-]
-}
-]
-}
