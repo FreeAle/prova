@@ -1,0 +1,605 @@
+{
+response_code: 0,
+results: [
+{
+category: "Science & Nature",
+type: "multiple",
+difficulty: "hard",
+question: "What is considered the rarist form of color blindness?",
+correct_answer: "Blue",
+incorrect_answers: [
+"Red",
+"Green",
+"Purple"
+]
+},
+{
+category: "Mythology",
+type: "multiple",
+difficulty: "medium",
+question: "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+correct_answer: "Athena",
+incorrect_answers: [
+"Ares",
+"Artemis",
+"Apollo"
+]
+},
+{
+category: "Science: Computers",
+type: "multiple",
+difficulty: "easy",
+question: "What does CPU stand for?",
+correct_answer: "Central Processing Unit",
+incorrect_answers: [
+"Central Process Unit",
+"Computer Personal Unit",
+"Central Processor Unit"
+]
+},
+{
+category: "Entertainment: Books",
+type: "multiple",
+difficulty: "easy",
+question: "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
+correct_answer: "Frankenstein",
+incorrect_answers: [
+"Dracula",
+"The Strange Case of Dr. Jekyll and Mr. Hyde ",
+"The Legend of Sleepy Hollow"
+]
+},
+{
+category: "Science: Computers",
+type: "multiple",
+difficulty: "medium",
+question: "What five letter word is the motto of the IBM Computer company?",
+correct_answer: "Think",
+incorrect_answers: [
+"Click",
+"Logic",
+"Pixel"
+]
+},
+{
+category: "Entertainment: Books",
+type: "multiple",
+difficulty: "medium",
+question: "What position does Harry Potter play in Quidditch?",
+correct_answer: "Seeker",
+incorrect_answers: [
+"Beater",
+"Chaser",
+"Keeper"
+]
+},
+{
+category: "Science & Nature",
+type: "multiple",
+difficulty: "easy",
+question: "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+correct_answer: "Nitrogen",
+incorrect_answers: [
+"Oxygen",
+"Argon",
+"Carbon Dioxide"
+]
+},
+{
+category: "General Knowledge",
+type: "multiple",
+difficulty: "medium",
+question: "Which essential condiment is also known as Japanese horseradish?",
+correct_answer: "Wasabi ",
+incorrect_answers: [
+"Mentsuyu",
+"Karashi",
+"Ponzu"
+]
+},
+{
+category: "Entertainment: Music",
+type: "multiple",
+difficulty: "hard",
+question: "Which M83 album is the song &quot;Midnight City&quot; featured in?",
+correct_answer: "Hurry Up, We&#039;re Dreaming",
+incorrect_answers: [
+"Saturdays = Youth",
+"Before the Dawn Heals Us",
+"Junk"
+]
+},
+{
+category: "History",
+type: "multiple",
+difficulty: "medium",
+question: "Which of the following is NOT classified as a Semetic language?",
+correct_answer: "Sumerian",
+incorrect_answers: [
+"Maltese",
+"Akkadian",
+"Mandaic"
+]
+},
+{
+category: "Science: Computers",
+type: "multiple",
+difficulty: "medium",
+question: "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+correct_answer: "Santa Clara",
+incorrect_answers: [
+"Palo Alto",
+"Cupertino",
+"Mountain View"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "In Portal 2, the iconic character GLaDOS is turned into:",
+correct_answer: "A potato",
+incorrect_answers: [
+"A tomato",
+"A lemon",
+"An apple"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "Who composed the soundtrack for the game VVVVVV?",
+correct_answer: "Magnus P&aring;lsson",
+incorrect_answers: [
+"Terry Cavanagh",
+"Danny Baranowsky",
+"Joel Zimmerman"
+]
+},
+{
+category: "Entertainment: Cartoon & Animations",
+type: "multiple",
+difficulty: "medium",
+question: "What is the name of Sid&#039;s dog in &quot;Toy Story&quot;?",
+correct_answer: "Scud",
+incorrect_answers: [
+"Buster",
+"Whiskers",
+"Mr. Jones"
+]
+},
+{
+category: "Vehicles",
+type: "multiple",
+difficulty: "easy",
+question: "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
+correct_answer: "TCAS",
+incorrect_answers: [
+"GPWS",
+"OCAS",
+"TAWS"
+]
+},
+{
+category: "Science & Nature",
+type: "multiple",
+difficulty: "medium",
+question: "Which part of the body does glaucoma affect?",
+correct_answer: "Eyes",
+incorrect_answers: [
+"Throat",
+"Stomach",
+"Blood"
+]
+},
+{
+category: "General Knowledge",
+type: "multiple",
+difficulty: "medium",
+question: "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+correct_answer: "Big Mouth Billy Bass",
+incorrect_answers: [
+"Big Billy Bass",
+"Singing Fish",
+"Sardeen"
+]
+},
+{
+category: "Entertainment: Musicals & Theatres",
+type: "multiple",
+difficulty: "hard",
+question: "What is the name of Broadway&#039;s first &quot;long-run&quot; musical?",
+correct_answer: "The Elves",
+incorrect_answers: [
+"Wicked",
+"Hamilton",
+"The Book of Mormon"
+]
+},
+{
+category: "Entertainment: Music",
+type: "multiple",
+difficulty: "medium",
+question: "Which of these songs by artist Eminem contain the lyric &quot;Nice to meet you. Hi, my name is... I forgot my name!&quot;?",
+correct_answer: "Rain Man",
+incorrect_answers: [
+"Without Me",
+"Kim",
+"Square Dance"
+]
+},
+{
+category: "Entertainment: Film",
+type: "multiple",
+difficulty: "hard",
+question: "In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?",
+correct_answer: "Men of Harlech",
+incorrect_answers: [
+"Scotland the Brave",
+"Colonel Bogey March",
+"The British Grenadiers"
+]
+},
+{
+category: "Geography",
+type: "multiple",
+difficulty: "medium",
+question: "What is the official language of Bhutan?",
+correct_answer: "Dzongkha",
+incorrect_answers: [
+"Ladakhi",
+"Karen",
+"Groma"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "In which game does a character say, &quot;Sometimes, I dream about cheese&quot;?",
+correct_answer: "Half Life 2",
+incorrect_answers: [
+"Team Fortress 2",
+"Dark Souls",
+"Serious Sam: The Second Encounter"
+]
+},
+{
+category: "Science: Computers",
+type: "multiple",
+difficulty: "medium",
+question: "Which of these programming languages is a low-level language?",
+correct_answer: "Assembly",
+incorrect_answers: [
+"Python",
+"C#",
+"Pascal"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "Which of these is not the name of a city in the Grand Theft Auto series?",
+correct_answer: "San Andreas",
+incorrect_answers: [
+"San Fierro",
+"Las Venturas",
+"Vice City"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "hard",
+question: "In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina&#039;s ultimate ability is what?",
+correct_answer: "Ultimate Swimmer",
+incorrect_answers: [
+"Ultimate Detective",
+"Ultimate Gambler",
+"Ultimate Dancer"
+]
+},
+{
+category: "Celebrities",
+type: "multiple",
+difficulty: "medium",
+question: "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+correct_answer: "The Party",
+incorrect_answers: [
+"The Weather Girls",
+"The Pussycat Dolls",
+"The Cheetah Girls"
+]
+},
+{
+category: "Entertainment: Music",
+type: "multiple",
+difficulty: "easy",
+question: "Kanye West&#039;s &quot;Gold Digger&quot; featured which Oscar-winning actor?",
+correct_answer: "Jamie Foxx",
+incorrect_answers: [
+"Alec Baldwin",
+"Dwayne Johnson",
+" Bruce Willis"
+]
+},
+{
+category: "Science: Computers",
+type: "multiple",
+difficulty: "hard",
+question: "Who is the original author of the realtime physics engine called PhysX?",
+correct_answer: "NovodeX",
+incorrect_answers: [
+"Ageia",
+"Nvidia",
+"AMD"
+]
+},
+{
+category: "Science: Computers",
+type: "multiple",
+difficulty: "medium",
+question: "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+correct_answer: "FM-7",
+incorrect_answers: [
+"PC-9801",
+"Xmillennium ",
+"MSX"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "hard",
+question: "What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into &quot;Super Smash Bros.&quot;?",
+correct_answer: "Dragon King: The Fighting Game",
+incorrect_answers: [
+"Nintendo Legends: Fight!",
+"Martial Arts: King of the Hill",
+"Aerial Warriors: Supreme Battle"
+]
+},
+{
+category: "General Knowledge",
+type: "multiple",
+difficulty: "easy",
+question: "What is the name of Poland in Polish?",
+correct_answer: "Polska",
+incorrect_answers: [
+"Pupcia",
+"Polszka",
+"P&oacute;land"
+]
+},
+{
+category: "Entertainment: Film",
+type: "multiple",
+difficulty: "medium",
+question: "What city did the monster attack in the film, &quot;Cloverfield&quot;?",
+correct_answer: "New York, New York",
+incorrect_answers: [
+"Las Vegas, Nevada",
+"Chicago, Illinois",
+"Orlando, Florida"
+]
+},
+{
+category: "History",
+type: "multiple",
+difficulty: "easy",
+question: "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+correct_answer: "The Polish President",
+incorrect_answers: [
+"Pope John Paul II",
+"Bang-Ding Ow",
+"Albert Putin"
+]
+},
+{
+category: "General Knowledge",
+type: "multiple",
+difficulty: "easy",
+question: "What was the first ever London Underground line to be built?",
+correct_answer: "Metropolitan Line",
+incorrect_answers: [
+"Circle Line",
+"Bakerloo Line",
+"Victoria Line"
+]
+},
+{
+category: "Entertainment: Music",
+type: "multiple",
+difficulty: "medium",
+question: "In which year did &quot;Caravan Palace&quot; release their first album?",
+correct_answer: "2008",
+incorrect_answers: [
+"2000",
+"2015",
+"2004"
+]
+},
+{
+category: "Science: Computers",
+type: "multiple",
+difficulty: "medium",
+question: "When did the online streaming service &quot;Mixer&quot; launch?",
+correct_answer: "2016",
+incorrect_answers: [
+"2013",
+"2009",
+"2011"
+]
+},
+{
+category: "Science: Computers",
+type: "multiple",
+difficulty: "medium",
+question: "Laserjet and inkjet printers are both examples of what type of printer?",
+correct_answer: "Non-impact printer",
+incorrect_answers: [
+"Impact printer",
+"Daisywheel printer",
+"Dot matrix printer"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "What is the name of Cream the Rabbit&#039;s mom in the &quot;Sonic the Hedgehog&quot; series?",
+correct_answer: "Vanilla",
+incorrect_answers: [
+"Peach",
+"Strawberry",
+"Mint"
+]
+},
+{
+category: "Science & Nature",
+type: "multiple",
+difficulty: "medium",
+question: "Which desert is the only desert in the world where the &quot;Saguaro&quot; cactus grows indigenously?",
+correct_answer: "The Sonoran Desert",
+incorrect_answers: [
+"The Gobi Desert",
+"The Yuma Desert",
+"The Arabian Desert"
+]
+},
+{
+category: "Science: Computers",
+type: "multiple",
+difficulty: "hard",
+question: "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+correct_answer: "Cheetah",
+incorrect_answers: [
+"Puma",
+"Tiger",
+"Leopard"
+]
+},
+{
+category: "Entertainment: Film",
+type: "multiple",
+difficulty: "easy",
+question: "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
+correct_answer: "Isla Nublar",
+incorrect_answers: [
+"Isla Sorna",
+"Isla Muerta",
+"Isla Pena"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "Which of these is the only fighter in the game &quot;Super Smash Bros. Melee&quot; capable of dealing damage with their taunt animation?",
+correct_answer: "Luigi",
+incorrect_answers: [
+"Mr. Game &amp; Watch",
+"Jigglypuff",
+"Pichu"
+]
+},
+{
+category: "General Knowledge",
+type: "multiple",
+difficulty: "hard",
+question: "Who founded the Khan Academy?",
+correct_answer: "Sal Khan",
+incorrect_answers: [
+"Ben Khan",
+"Kitt Khan",
+"Adel Khan"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "In Telltale Games&#039; &quot;The Walking Dead: Season One&quot; what is the name of Clementine&#039;s father?",
+correct_answer: "Ed",
+incorrect_answers: [
+"Charles",
+"Lee",
+"Walter"
+]
+},
+{
+category: "Entertainment: Television",
+type: "multiple",
+difficulty: "easy",
+question: "Which actor portrays &quot;Walter White&quot; in the series &quot;Breaking Bad&quot;?",
+correct_answer: " Bryan Cranston",
+incorrect_answers: [
+"Andrew Lincoln",
+"Aaron Paul",
+"RJ Mitte"
+]
+},
+{
+category: "Entertainment: Cartoon & Animations",
+type: "multiple",
+difficulty: "medium",
+question: "What was the number on Gerald&#039;s shirt in &quot;Hey Arnold!&quot;?",
+correct_answer: "33",
+incorrect_answers: [
+"88",
+"38",
+"83"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "hard",
+question: "In which game did the character &quot;Mario&quot; make his first appearance?",
+correct_answer: "Donkey Kong",
+incorrect_answers: [
+"Super Mario Bros.",
+"Super Mario Land",
+"Mario Bros."
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "Which of the following Call of Duty games was a PS3 launch title?",
+correct_answer: "Call of Duty 3",
+incorrect_answers: [
+"Call of Duty 4: Modern Warfare",
+"Call of Duty: World at War",
+"Call of Duty: Roads to Victory"
+]
+},
+{
+category: "Science & Nature",
+type: "multiple",
+difficulty: "hard",
+question: "How many protons are in an oxygen atom?",
+correct_answer: "Eight",
+incorrect_answers: [
+"Four",
+"Two",
+"Six"
+]
+},
+{
+category: "Geography",
+type: "multiple",
+difficulty: "medium",
+question: "What is the capital of Greenland?",
+correct_answer: "Nuuk",
+incorrect_answers: [
+"Sisimiut",
+"Narsaq",
+"Maniitsoq"
+]
+}
+]
+}
