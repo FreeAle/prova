@@ -1,0 +1,125 @@
+{
+response_code: 0,
+results: [
+{
+category: "History",
+type: "multiple",
+difficulty: "medium",
+question: "What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? ",
+correct_answer: "Polio",
+incorrect_answers: [
+"Cancer",
+"Meningitis",
+"HIV"
+]
+},
+{
+category: "General Knowledge",
+type: "multiple",
+difficulty: "medium",
+question: "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+correct_answer: "Mike",
+incorrect_answers: [
+"Matthew",
+"Mark",
+"Max"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "In Forza Motorsport 6, which of these track-exclusive cars was NOT featured in the game, either originally with the game or added as DLC?",
+correct_answer: "Aston Martin Vulcan",
+incorrect_answers: [
+"Ferrari FXX-K",
+"McLaren P1 GTR",
+"Lotus E23"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "In the Kingdom Heart series who provides the english voice for Master Eraqus?",
+correct_answer: "Mark Hamill",
+incorrect_answers: [
+"Jason Dohring",
+"Jesse McCartney",
+"Haley Joel Osment"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "hard",
+question: "In World of Warcraft lore, who organized the creation of the Paladins?",
+correct_answer: "Alonsus Faol",
+incorrect_answers: [
+"Uther the Lightbringer",
+"Alexandros Mograine",
+"Sargeras, The Daemon Lord"
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "Who is the main character in most of the games of the YS series?",
+correct_answer: "Adol Christin ",
+incorrect_answers: [
+"Character doesn&#039;t have a name",
+"Estelle Bright",
+"Roger Wilco"
+]
+},
+{
+category: "Entertainment: Television",
+type: "multiple",
+difficulty: "medium",
+question: "In the television show &quot;Lazy Town&quot;, who is the actor of Robbie Rotten?",
+correct_answer: "Stef&aacute;n Stef&aacute;nsson",
+incorrect_answers: [
+"Adam Sandler",
+"Magn&uacute;s Scheving",
+"Stephen Carl"
+]
+},
+{
+category: "Entertainment: Film",
+type: "multiple",
+difficulty: "easy",
+question: "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+correct_answer: "Groovy.",
+incorrect_answers: [
+"Gnarly.",
+"Perfect.",
+"Nice."
+]
+},
+{
+category: "Entertainment: Video Games",
+type: "multiple",
+difficulty: "medium",
+question: "Which character does the player play as in the video game &quot;Bastion&quot;?",
+correct_answer: "The Kid",
+incorrect_answers: [
+"Rucks",
+"Zulf",
+"Zia"
+]
+},
+{
+category: "General Knowledge",
+type: "multiple",
+difficulty: "hard",
+question: "The word &quot;astasia&quot; means which of the following?",
+correct_answer: "The inability to stand up",
+incorrect_answers: [
+"The inability to make decisions",
+"The inability to concentrate on anything",
+"A feverish desire to rip one&#039;s clothes off"
+]
+}
+]
+}
